@@ -12,4 +12,5 @@ main {
     width: 500px;
     margin: auto;
     box-shadow: inset;
+    padding: 20px;
 }
